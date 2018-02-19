@@ -1,0 +1,7 @@
+*.iml
+/phase1/.idea/*
+/phase1/out/*
+/phase2/.idea/*
+/phase2/out/*
+/phase1/ProjectFiles/*
+/phase2/ProjectFiles/*

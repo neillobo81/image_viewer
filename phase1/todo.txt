@@ -1,0 +1,9 @@
+To do:
+
+Establish classes and methods (Samarth, Neil, Jenny)
+
+Make CRC cards and UML diagrams (Samarth, Neil, Jenny)
+
+Divide up roles (Samarth, Neil, Jenny)
+
+Learn JavaFX (Neil)
