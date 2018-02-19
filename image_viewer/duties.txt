@@ -1,0 +1,16 @@
+Duties for Samarth Agarwal
+Wrote unit tests for TagManager class in a class called TagManagerTest
+Modified some methods in TagManager class
+Modified some methods in Tag class
+Modified instance method revert in ImageFile class
+Added instructions on how to run program from command line in help.txt
+Added design.pdf UML diagram
+
+
+Duties for Jenny Pasitkhammanh
+Wrote unit tests for ImageFile class in a class called ImageFileTest. Fixed methods ImageFile and ImageFileManager. Write search method (new method) in ImageFileManager.
+
+Duties for Neil Lobo
+Wrote methods in the View class, revamped the entire use experience
+Wrote methods in the controller class
+Modified a method in the ImageFileManager class
