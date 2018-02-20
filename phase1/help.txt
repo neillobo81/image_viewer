@@ -1,0 +1,5 @@
+On the command line, use 'cd' to change to the 'src' directory in the project.
+
+Type javac pack/View.java
+
+Type java pack.View
